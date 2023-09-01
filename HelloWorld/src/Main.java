@@ -18,5 +18,9 @@ public class Main {
 
         System.out.println(arr);
 
+        for(int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
+
     }
 }
